@@ -123,14 +123,3 @@ Welcome to the world of Azure Containers!
 ✔️ Image Docker disponible sur Docker Hub  
 ✔️ Application fonctionnelle et testée en local
 
----
-
-## 📌 À inclure dans le rapport écrit :
-- Capture du pipeline dans Jenkins
-- Capture du rapport JaCoCo
-- Capture de l’API REST accessible en local
-- (Facultatif) Schéma visuel du pipeline
-
----
-
-Tu peux maintenant soumettre ce TP comme un travail **CI/CD professionnel de qualité** 🔥
