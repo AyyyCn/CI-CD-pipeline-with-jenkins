@@ -15,7 +15,7 @@ pipeline {
 
         stage('Build Maven') {
             steps {
-                sh './mvnw clean install -DskipTests'
+                bat 'mvnw.cmd clean install -DskipTests'
             }
         }
 
